@@ -1,0 +1,15 @@
+{
+  "name": "decompiled-lightning-openrouter",
+  "private": true,
+  "scripts": {
+    "build": "slidev build",
+    "dev": "slidev --open",
+    "export": "slidev export"
+  },
+  "dependencies": {
+    "@slidev/cli": "^52.14.1",
+    "@slidev/theme-default": "latest",
+    "@slidev/theme-seriph": "latest",
+    "prettier": "3.8.1"
+  }
+}

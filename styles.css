@@ -1,0 +1,10 @@
+* {
+  font-family: "Source Code Pro", monospace;
+
+  --slidev-code-font-size: 8px;
+  --slidev-code-line-height: 8px;
+}
+
+.slidev-layout {
+  padding-top: 0;
+}
